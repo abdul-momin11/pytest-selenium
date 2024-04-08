@@ -1,0 +1,6 @@
+[
+  "test_jenkins.py::test_login[munaim-mun@gmail.com0]",
+  "test_jenkins.py::test_login[munaim-mun@gmail.com1]",
+  "test_jenkins.py::test_login[munaim-mun@gmail.com2]",
+  "test_jenkins.py::test_login[munaim-mun@gmail.com3]"
+]
